@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deuc-deploy/static/css/main.da80a331.css",
-    "main.js": "/deuc-deploy/static/js/main.2fb64a86.js",
+    "main.css": "/deuc-deploy/static/css/main.b7f5dd74.css",
+    "main.js": "/deuc-deploy/static/js/main.e32f5db8.js",
     "static/js/787.5fa191be.chunk.js": "/deuc-deploy/static/js/787.5fa191be.chunk.js",
     "static/media/drama.jpg": "/deuc-deploy/static/media/drama.4ed8da454dd79385329b.jpg",
     "static/media/childmeeting.jpg": "/deuc-deploy/static/media/childmeeting.11dc691049c66c2fad00.jpg",
@@ -20,12 +20,12 @@
     "static/media/policy.svg": "/deuc-deploy/static/media/policy.04ff5f7c0a40b93ff1dd0edce315970e.svg",
     "index.html": "/deuc-deploy/index.html",
     "static/media/principle.svg": "/deuc-deploy/static/media/principle.f3ba95718025109a5c539bbe5b707eb3.svg",
-    "main.da80a331.css.map": "/deuc-deploy/static/css/main.da80a331.css.map",
-    "main.2fb64a86.js.map": "/deuc-deploy/static/js/main.2fb64a86.js.map",
+    "main.b7f5dd74.css.map": "/deuc-deploy/static/css/main.b7f5dd74.css.map",
+    "main.e32f5db8.js.map": "/deuc-deploy/static/js/main.e32f5db8.js.map",
     "787.5fa191be.chunk.js.map": "/deuc-deploy/static/js/787.5fa191be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da80a331.css",
-    "static/js/main.2fb64a86.js"
+    "static/css/main.b7f5dd74.css",
+    "static/js/main.e32f5db8.js"
   ]
 }
