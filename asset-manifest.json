@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/deuc-deploy/static/css/main.da80a331.css",
+    "main.js": "/deuc-deploy/static/js/main.485eb2e2.js",
+    "static/js/787.5fa191be.chunk.js": "/deuc-deploy/static/js/787.5fa191be.chunk.js",
+    "static/media/drama.jpg": "/deuc-deploy/static/media/drama.4ed8da454dd79385329b.jpg",
+    "static/media/childmeeting.jpg": "/deuc-deploy/static/media/childmeeting.11dc691049c66c2fad00.jpg",
+    "static/media/FinancialLiteracy.jpg": "/deuc-deploy/static/media/FinancialLiteracy.1b6c89b681f97cedba60.jpg",
+    "static/media/bootstrap-icons.woff?": "/deuc-deploy/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/psy counseling.jpg": "/deuc-deploy/static/media/psy counseling.1a61a137557353da7ed1.jpg",
+    "static/media/bootstrap-icons.woff2?": "/deuc-deploy/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/policies.jpg": "/deuc-deploy/static/media/policies.e716a211a6b008df75fd.jpg",
+    "static/media/Ecd.jpg": "/deuc-deploy/static/media/Ecd.c0a2dc1b64367b9acc1d.jpg",
+    "static/media/orgdig.png": "/deuc-deploy/static/media/orgdig.ca59a4ce7de4d1d6ff27.png",
+    "static/media/nepalGov.png": "/deuc-deploy/static/media/nepalGov.5847c47fcf95fbbe8c44.png",
+    "static/media/poverty.png": "/deuc-deploy/static/media/poverty.6334e1c71efe2e9632e8.png",
+    "static/media/undp.png": "/deuc-deploy/static/media/undp.dde97f69b67fd4620219.png",
+    "static/media/stromFonud.jpg": "/deuc-deploy/static/media/stromFonud.99fd7e06e50f7bdd7397.jpg",
+    "static/media/strategy.svg": "/deuc-deploy/static/media/strategy.74a6fd099da4967c75e6ac39d6f4be95.svg",
+    "static/media/policy.svg": "/deuc-deploy/static/media/policy.04ff5f7c0a40b93ff1dd0edce315970e.svg",
+    "index.html": "/deuc-deploy/index.html",
+    "static/media/principle.svg": "/deuc-deploy/static/media/principle.f3ba95718025109a5c539bbe5b707eb3.svg",
+    "main.da80a331.css.map": "/deuc-deploy/static/css/main.da80a331.css.map",
+    "main.485eb2e2.js.map": "/deuc-deploy/static/js/main.485eb2e2.js.map",
+    "787.5fa191be.chunk.js.map": "/deuc-deploy/static/js/787.5fa191be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da80a331.css",
+    "static/js/main.485eb2e2.js"
+  ]
+}
